@@ -1,0 +1,20 @@
+2021-04-22 23:32:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "SIMPLE_PRODUCTS" уже существует
+Table "SIMPLE_PRODUCTS" already exists; SQL statement:
+ CREATE TABLE simple_products (id bigserial PRIMARY KEY, title VARCHAR(255), price int); [42101-200]
+2021-04-22 23:33:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "SIMPLE_PRODUCTS" уже существует
+Table "SIMPLE_PRODUCTS" already exists; SQL statement:
+ CREATE TABLE simple_products (id bigserial PRIMARY KEY, title VARCHAR(255), price int); [42101-200]
+2021-04-22 23:33:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "SIMPLE_PRODUCTS" уже существует
+Table "SIMPLE_PRODUCTS" already exists; SQL statement:
+ CREATE TABLE simple_products (id bigserial PRIMARY KEY, title VARCHAR(255), price int); [42101-200]
+2021-04-22 23:35:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "SIMPLE_PRODUCTS" уже существует
+Table "SIMPLE_PRODUCTS" already exists; SQL statement:
+ CREATE TABLE simple_products (id bigserial PRIMARY KEY, title VARCHAR(255), price int); [42101-200]
+2021-04-22 23:46:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "SIMPLE_PRODUCTS" уже существует
+Table "SIMPLE_PRODUCTS" already exists; SQL statement:
+ CREATE TABLE simple_products (id bigserial PRIMARY KEY, title VARCHAR(255), price int); [42101-200]
